@@ -8,7 +8,7 @@
 ### About Me
 
 - 🌐 Data Scientist and Analytics professional
-- 🚀 Experienced in building analytical solution and deploying machine learning models in production
+- 🚀 Experienced in building analytical solution and machine learning models and deploying them into production
 - 💼 Industry experience: Financial Services, Telecoms, Marketing Technology, Consulting
 
 ## Skills and Expertise
