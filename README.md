@@ -1,11 +1,11 @@
-### Hi there, I'm Favour 👋
+## Hi there, I'm Favour 👋
 
 
-## Profile Summary
+### Profile Summary
 
 #### I am a Data Scientist/Analyst with over 4 years of experience in the Financial Services, Telecoms, and Marketing Technology industries.
 
-## About Me
+### About Me
 
 - 🌐 Data Scientist and Analytics professional
 - 🚀 Experienced in building analytical solution and deploying machine learning models in production
