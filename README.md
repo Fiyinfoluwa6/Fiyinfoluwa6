@@ -59,4 +59,3 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
 
-Feel free to customize it further to better suit your personal style and preferences!
