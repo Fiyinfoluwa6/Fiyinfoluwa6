@@ -4,13 +4,13 @@
 **Fiyinfoluwa6/Fiyinfoluwa6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 =
 
-I am a Data Scientist/Analyst with over 4 years of experience in the Financial Services, Telecoms, and Marketing Technology industries. My expertise lies in delivering value-driven insights to positively influence business decisions. I have a proven record of building and deploying machine learning models in production environments.
+#### I am a Data Scientist/Analyst with over 4 years of experience in the Financial Services, Telecoms, and Marketing Technology industries. My expertise lies in delivering value-driven insights to positively influence business decisions. I have a proven record of building and deploying machine learning models in production environments.
 
 ## About Me
 
-- 🌐 Data Science and Analytics professional
-- 🚀 Experienced in deploying machine learning models in production
-- 💼 Industry experience: Financial Services, Telecoms, Marketing Technology
+🌐 Data Science and Analytics professional
+🚀 Experienced in deploying machine learning models in production
+💼 Industry experience: Financial Services, Telecoms, Marketing Technology
 
 ## Skills and Expertise
 
