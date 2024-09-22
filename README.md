@@ -3,7 +3,7 @@
 
 ### Profile Summary
 
-#### I am a Data Scientist/Analyst with over 4 years of experience in the Financial Services, Telecoms, and Marketing Technology industries.
+#### I am a Data Scientist/Analyst with over 5 years of experience in the Financial Services, Telecoms, and Marketing Technology industries.
 
 ### About Me
 
