@@ -3,12 +3,12 @@
 
 ### Profile Summary
 
-#### I am a Data Scientist/Analyst with over 5 years of experience in the Financial Services, Telecoms, and Marketing Technology industries.
+#### I am a Data Scientist/AI Engineer with over 6 years of experience in the Financial Services, Telecoms, and Marketing Technology industries.
 
 ### About Me
 
 - 🌐 Data Scientist and Analytics professional
-- 🚀 Experienced in building analytical solution and machine learning models, and deploying them for production use
+- 🚀 Experienced in building analytical solution and machine learning models, Agentic AI applications and deploying them for production use
 - 💼 Industry experience in Financial Services, Telecoms, Marketing Technology, Consulting
 
 ## Skills and Expertise
