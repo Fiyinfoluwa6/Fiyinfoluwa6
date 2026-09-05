@@ -12,8 +12,7 @@
   <a href="https://medium.com/@oyelamifiyin">
     <img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" alt="Medium"/>
   </a>
-  <!-- Replace with your real LinkedIn URL -->
-  <a href="https://www.linkedin.com/in/your-linkedin-handle">
+  <a href="https://www.linkedin.com/in/favour-oyelami-29b607a1/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
